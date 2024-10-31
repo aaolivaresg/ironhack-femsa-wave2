@@ -1,0 +1,10 @@
+
+G	java:S106<"+Replace this use of System.out by a logger.(â÷ºß8¿ßÿ­2
+d
+java:S2094D"BRemove this empty class, write its code or make it an "interface".(úÆ ×ùÿÿÿÿ8¿ßÿ­2
+L	java:S106Q"+Replace this use of System.out by a logger.(¥¬™Ëûÿÿÿÿ8Àßÿ­2
+L	java:S106Z"+Replace this use of System.out by a logger.(¡æÖˆüÿÿÿÿ8Àßÿ­2
+L	java:S106h"+Replace this use of System.out by a logger.(Ñ†øÜûÿÿÿÿ8Áßÿ­2
+G	java:S106w"+Replace this use of System.out by a logger.(ÎÃƒù8Áßÿ­2
+H	java:S106€"+Replace this use of System.out by a logger.(¯½œş8Áßÿ­2
+H	java:S106Œ"+Replace this use of System.out by a logger.(ÀÈ´ò8àõ£ÿ­2
